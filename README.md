@@ -41,7 +41,7 @@ A ferramenta Streamlit foi usada para disponibiizar o modelo online.
  
 Para isso, tanto o modelo de melhor performance quanto o vetorizador foram salvos em arquivos do tipo .sav. Em seguida, o programa da aplicação, contendo os passos de limpeza e a composição dessas funções com o vetorizador e o modelo, criando um pipeline, foi escrito no arquivo prediction.py. O arquivo app.py por sua vez é o responsável por chamar a função, quando acionado via interface do app.
   
-O app pode ser acessado neste link.
+O app pode ser acessado neste [link](https://rodriguesrbruno-customer-support-bot-router-app-prod-bqkgzl.streamlit.app/).
 
  
   
